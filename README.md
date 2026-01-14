@@ -45,5 +45,6 @@ Thông qua bài thực hành này, em đã rèn luyện và nâng cao được c
 
 Bài thực hành giúp em hiểu rõ hơn vai trò của **kiểm thử giao diện người dùng trong quá trình phát triển phần mềm, đồng thời nâng cao kỹ năng cần thiết của một kiểm thử viên trong môi trường thực tế.
 Kết quả chứng minh ở hình ảnh ở cùng link
-Screenshot 2026-01-05 170008.png
+<img width="701" height="402" alt="image" src="https://github.com/user-attachments/assets/e314a193-1693-48a4-9a70-45d29da8ddb5" />
+
 
