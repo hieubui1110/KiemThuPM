@@ -47,4 +47,3 @@ Bài thực hành giúp em hiểu rõ hơn vai trò của **kiểm thử giao di
 Kết quả chứng minh ở hình ảnh ở cùng link
 <img width="701" height="402" alt="image" src="https://github.com/user-attachments/assets/e314a193-1693-48a4-9a70-45d29da8ddb5" />
 
-
